@@ -2,6 +2,8 @@
 
 Updates duckdns IP to match your IP. Each update is logged to the console.
 
+Now supports multiple architectures including AMD64 (standard Linux, Windows, Mac) and ARM (Raspberry Pi).
+
 ~~~shell
 $ docker-compose up
 Recreating duckdns-update ... done
